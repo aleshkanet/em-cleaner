@@ -1,0 +1,16 @@
+{
+  "name": "em-cleaner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Alex Nazarov",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.3",
+    "replace-in-file": "^3.4.3"
+  }
+}
